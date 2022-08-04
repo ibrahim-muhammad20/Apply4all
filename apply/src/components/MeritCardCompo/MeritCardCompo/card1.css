@@ -1,0 +1,41 @@
+
+.divider {
+    display: flex;
+}
+
+.divider:before,
+  .devider:after {
+    content: "";
+    flex: 1;
+  }
+.donotcross {
+    overflow: hidden;
+    align-items: center;
+    background: hsl(50, 100%, 50%);
+    color: black;
+    height: 1.5em;
+    line-height: 2em;
+    
+  }
+.donotcross:before,
+    .donotcross:after {
+  background: white;
+  padding: 50px 0;
+  height: 0;
+  transform: rotate(45deg);
+}
+
+
+
+.sp{
+    /* font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
+    text-align: center;
+    justify-content: center;
+    color:#FF476A;
+
+
+}
+.sp:hover
+{
+    color: blue;
+}

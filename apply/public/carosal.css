@@ -1,0 +1,18 @@
+a{
+    text-decoration: none;
+    color: rgb(19, 2, 132);
+}
+a:hover{
+    color: rgb(217, 255, 0);
+}
+.link{
+    padding: 6px;
+    border: none;
+    text-decoration: none;
+    cursor:pointer;
+    font-size: 13px;
+    border-radius: 4px;
+}
+.link:hover{
+    color: rgb(255, 214, 8);
+}

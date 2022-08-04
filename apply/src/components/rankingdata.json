@@ -1,0 +1,21 @@
+[
+    { "id": "1", "Ranking": "1","Uniname":"FAST ", "tag": "Lahore","district":"Lahore"  },
+    { "id": "2", "Ranking": "2","Uniname":"LUMS",  "tag": "Lahore",  "district":"Lahore" },
+    { "id": "3", "Ranking": "3","Uniname":"NUST",  "tag": "Islamabad","district":"Islamabad" } ,
+    { "id": "4", "Ranking": "4","Uniname":"PIEAS", "tag": "Islamabad","district":"Islamabad" },
+    { "id": "5", "Ranking": "5","Uniname":"IBA",   "tag": "Karachi","district":"Karachi" },
+    { "id": "6", "Ranking": "6","Uniname":"NUML",  "tag": "Lahore","district":"Lahore" },
+    { "id": "7", "Ranking": "7","Uniname":"IQRA",  "tag": "Karachi","district":"Karachi" },
+    { "id": "8", "Ranking": "8","Uniname":"GIKI",  "tag": "Islamabad","district":"Islamabad" },
+
+    { "id": "1", "Ranking": "1", "Uniname": "FAST ","tag": "All","district":"Lahore"},
+    { "id": "2", "Ranking": "2", "Uniname": "LUMS", "tag": "All","district":"Lahore"},
+    { "id": "3", "Ranking": "3", "Uniname": "NUST", "tag": "All","district":"Islamabad"} ,
+    { "id": "4", "Ranking": "4", "Uniname": "PIEAS","tag": "All","district":"Islamabad"},
+    { "id": "5", "Ranking": "5", "Uniname": "IBA",  "tag": "All","district":"Karachi"},
+    { "id": "6", "Ranking": "6", "Uniname": "NUML", "tag": "All","district":"Lahore"},
+    { "id": "7", "Ranking": "7", "Uniname": "IQRA", "tag": "All","district":"Karachi"},
+    { "id": "5", "Ranking": "8", "Uniname": "GIKI", "tag": "All","district":"Islamabad"}
+    
+   
+]

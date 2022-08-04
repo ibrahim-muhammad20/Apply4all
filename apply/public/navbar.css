@@ -1,0 +1,16 @@
+.btn-color{
+    color:white;
+    font-size: large;
+    font-weight: bold;
+}
+.btn:hover{
+    color:white;
+  }
+  
+.btn:focus{
+    color:white;
+  }
+.navbar-custom {
+    height: 50px;
+  }
+  

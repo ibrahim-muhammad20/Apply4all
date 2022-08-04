@@ -1,0 +1,20 @@
+.nav-item
+{
+    color: white;
+}
+
+.navbar-customb {
+    height: 50px;
+  }
+  .navbar >.active {
+    color: white;
+ }
+ .nav-item{
+     font-weight: bold;
+    
+
+ }
+ .ma{
+     margin-left: 50px;
+     margin-right: 50px;
+ }

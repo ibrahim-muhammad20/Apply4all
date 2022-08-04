@@ -1,0 +1,89 @@
+.login {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.fb-connect {
+  color: white;
+}
+.a{
+  text-decoration: none;
+}
+.facebook {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  height: 50px;
+  width: 360px;
+  background-color: #3b5c9f;
+  border: none;
+}
+
+.facebook {
+  cursor: pointer;
+}
+#button {
+  justify-content: center;
+}
+.login-field {
+  cursor: pointer;
+}
+.Icon-image {
+  height: 32px;
+  width: 32px;
+  fill: #f7f7f7;
+}
+
+#password-field,
+#username-field,
+#phone,
+#email {
+  height: 46px;
+  width: 350px;
+  padding: 10px;
+  border: 1px solid #bec0c2;
+}
+
+.login-field {
+  height: 40px;
+  width: 360px;
+  background-color: #fcc640;
+  border: none;
+  color: #f7f7f7;
+  font-weight: 700;
+  text-shadow: 0 -1px transparent;
+}
+#username-login-field {
+  border: 1px solid #007fed;
+}
+
+.TermsACond {
+  width: 370px;
+}
+
+/* Hr-tag */
+.sp:after,
+.sp:before {
+  content: "\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0";
+  text-decoration: line-through;
+}
+
+hr {
+  display: inline-block;
+  width: 29%;
+  border-top: 2px solid black;
+}
+
+.input:focus {
+  outline: none !important;
+  border: 1px solid red;
+  box-shadow: 0 0 10px #719ece;
+}
+.lp:after,
+.lp:before {
+  content: "\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0";
+  text-decoration: none;
+}

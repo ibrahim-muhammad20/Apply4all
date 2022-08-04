@@ -1,0 +1,15 @@
+[
+    { "id": "1","NO":"1","FinancialAid": "NOP Program","EligibilityCriteria":"At least 80% marks in Matric or equivalent in O-Levels.","Uniname":"LUMS ", "tag": "Lahore","district":"Lahore"  },
+
+    { "id": "2","NO":"1","FinancialAid": "NUST Need Based Financial Aid","EligibilityCriteria":" it is mandatory for candidates to apply for external scholarships e.g Ehsaas, PEEF etc. candidates will be required to furnish proof of applying / result for such scholarships.","Uniname":"NUST ", "tag": "Islamabad","district":"Islamabad"  },
+
+    { "id": "3","NO":"1","FinancialAid": "interest-free study loans","EligibilityCriteria":"Top Board Position Holder","Uniname":"FAST ", "tag": "Lahore","district":"Lahore"  },
+
+    { "id": "4","NO":"1","FinancialAid": "Merit Based Scholarships","EligibilityCriteria":"(100% tuition fee off) to all position holders of all the National Boards and Universities in the programs of their choice in the first semester.","Uniname":"IQRA ", "tag": "Karachi","district":"Karachi"  },
+
+    { "id": "5","NO":"1","FinancialAid": "Need Based Financial Assistance","EligibilityCriteria":"Students must have secured at least 70% marks (first division) in their Intermediate and Alevels ","Uniname":"IBA ", "tag": "Karachi","district":"Karachi"  },
+
+    
+    { "id": "6","NO":"1","FinancialAid": "PEEF Scholarship","EligibilityCriteria":"Students must have secured at least 60% marks (first division) in their Intermediate  Annual Examination and must have enrolled in the graduate level degree program in the same year (2020) as they have passed such Intermediate Annual Examination.","Uniname":"GIKI ", "tag": "Islamabad","district":"Islamabad"  }
+
+]
